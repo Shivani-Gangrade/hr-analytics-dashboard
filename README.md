@@ -116,25 +116,30 @@ customer-churn-prediction/
 
 ## 🚀 How To Use
 
-1. Download the `.pbix` file from the `dashboard/` folder
-2. Open in **Power BI Desktop**
-3. Interact with filters (Department, Gender, Job Role)
-4. Explore insights and trends
+1. Download the `.pbix` file from the `dashboard/` folder  
+2. Open in **Power BI Desktop**  
+3. Interact with filters (Department, Gender, Job Role)  
+4. Use **Drill-through (right-click)** on visuals to explore detailed insights  
+5. Analyze trends and patterns  
 
 ---
 
-## 🔮 Future Improvements
+## 🔍 Drill-through Functionality
 
-* Add predictive modeling for attrition (ML model)
-* Integrate real-time HR data pipeline
-* Enhance dashboard with drill-through analysis
-* Include employee satisfaction / survey data
+This dashboard includes an interactive **drill-through feature**:
+
+* Users can right-click on any visual (e.g., Job Role, Age Group, Department)
+* Selecting **Drill-through** navigates to a detailed view
+* The **Employee Details page is hidden by default**
+* It is only accessible through drill-through interactions
+
+👉 This enables users to perform **deep-dive analysis on specific segments** without cluttering the main dashboard.
 
 ---
 
 ## 👩‍💻 Author
 
 **Shivani Gangrade**
-BI Developer | Aspiring Data Analyst
+BI Developer
 📧 shivanigangrade10@gmail.com
 🔗 [LinkedIn](https://linkedin.com/in/shivani-gangrade10)
