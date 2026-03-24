@@ -67,10 +67,10 @@ customer-churn-prediction/
 ## 📊 Dashboard Overview
 
 ### Page 1 — HR Analytics Summary
-![Employee Details](dashboard/Page2_Details.png.png)
+![HR Dashboard](Dashboard/Page1_Attrition_Report.png)
 
 ### Page 2 — Employee Details
-
+![Employee Details](Dashboard/Page2_Details.png)
 ---
 
 ## 📈 Key Insights
